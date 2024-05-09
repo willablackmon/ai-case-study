@@ -1,14 +1,17 @@
 # Module 01 Challenge
 # SPOTIFY
 
- - [Overview and Origin](#item-one)
- - [Company Funding](#item-two)
- - [AI Domain Trends](#item-three)
-
+ - [I. Overview](#item-one)
+ - [II. Business Description and Domain Landscape](#item-two)
+ - [III. How Spotify Leverages AI](#item-three)
+ - [IV. AI Aquisitions and Partnerships](#item-four)
+ - [V. Spotify's Results](#item-five)
+ - [VI. Recommendations](#item-six)
+ - [VII. References](#item-seven)
 
 <a id="item-one"></a>
 
-## Overview
+## I. Overview
 
 ### Origins 
 __Spotify__ is an audio and media streaming service founded on 23 April 2006 in Stockholm, Sweden by Daniel Ek and Martin Lorentzon.
@@ -21,7 +24,6 @@ Spotify launched in 2008 and opened public registration for a free service in th
 
 Spotify utlizes a "Freemium" model (comprised of free, ad-supported subscriptions and Premium Subscriptions with monthly fees),
 
-<a id="item-tw0"></a>
 
 ### Funding
   __February 2010__ Founders Fund, a San Francisco-based venture capital provides an initial investment. _Founders Fund was the first institutional investor in __Space Exploration Technologies (SpaceX)__ and early investor in __Facebook__.  It included board member __Sean Parker__, co-founder of __Napster__ and ex-president of __Facebook__._
@@ -37,9 +39,9 @@ Spotify goes public with a direct public offering.
 
 _Spotify now operates utilizing a freemium business model, with basic services provided for free with advertising and premium services via paid subscriptions._
 
-<a id="item-three"></a>
+<a id="item-two"></a>
 
-## Business Description and Landscape
+## II. Business Description and Domain Landscape
 
 ### Impact of Streaming Services
 
@@ -54,39 +56,42 @@ _Spotify now operates utilizing a freemium business model, with basic services p
   
 Spotify provides over 100 million songs, 5 million podcasts, and 4 billion playlists.  They have over 600 million users across more than 180 countries worldwide. 
 
+### Domain Trends
 
-## Domain Trends:
+1. __Personalization and Optimization__ AI improvements allow more accurate genre and mood categorization, enhancing the relevance of music recommendations and highly personalized playlists.
++ Streaming companies are using Artificial Intelligence to improve personalization and optimization, to provide an overall better customer experience.
 
-### Personalization and Optimization
-Streaming companies are using Artificial Intelligence to improve personalization and optimization, to provide an overall better customer experience.
++ AI has improved content curation by providing automated tagging and classification of tracks, analyzing the audio of the tracks in addition to the metadata.
 
-AI has improved content curation by providing automated tagging and classification of tracks, analyzing the audio of the tracks in addition to the metadata.
++ AI algorithms take listening history, user information, and utilize collaborative filtering to make content recommendations for music and podcasts.
 
-AI algorithms take listening history, user information, and utilize collaborative filtering to make content recommendations for music and podcasts.
-
-These AI improvements allow more accurate genre and mood categorization, enhancing the relevance of music recommendations and highly personalized playlists.
-
-### Targeted Advertising
+2. __Targeted Advertising__
 Improvements have been made in ad targeting, making advertising "more relevant and less intrusive."
+ ```       
+Spotify uses AI to analyze listening habits, serving ads that are more likely to align with the listener's interests. This not only enhances the user experience but also increases ad efficacy.^11
+```
+3. __Improved Search Usability__ Multiple audio (and video) streaming providers have improved search functionality with voice recognition and natural language processing.
 
-    Spotify uses AI to analyze listening habits, serving ads that are more likely to align with the listener's interests. This not only enhances the user experience but also increases ad efficacy.
+<a id="item-three"></a>
 
-### Improved Search Usability 
+## III. How Spotify Leverages AI
 
-Multiple providers have improved search functionality with voice recognition and natural language processing.
+What sets Spotify apart is it's vast number of users, vast amount of data for the users, and the products it creates from it.  
 
-
-## How Spotify Ultilizes AI
-
-What sets Spotify apart is it's vast number of users and data for the users.
-and the products it creates from it.  It's content-filtering has evolved and includes advanced, proprietary features. They leverage exploring reinforcement learning to learn automatically based on feedback, to improve diversity of recommendations.
+It's content-filtering has evolved and includes advanced, proprietary features. They leverage exploring reinforcement learning to learn automatically based on feedback, to improve diversity of recommendations.
 
 Spotify's strength lies in its unique ability to leverage user data and machine learning algorithms. By analyzing individual music preferences, search behavior, playlist data, geographical location and device usage, Spotify tailors personalized playlists and recommendations.^12
 
 These AI-powered recommendations are the company's competitive advantage.^4
 
-        This ability to hyper-personalize audio recommendations to each and every Spotify user is impossible without AI. This means, in a very real sense, Spotify as a business today would not exist at its current scale without AI. According to the company, at least half a trillion events are processed daily to inform machine learning models. And the more data these models gather, the better they are at making higher-quality recommendations.^4
-  
+```
+This ability to hyper-personalize audio recommendations to each and every Spotify user is impossible without AI. 
+        
+This means, in a very real sense, Spotify as a business today would not exist at its current scale without AI. 
+        
+According to the company, at least half a trillion events are processed daily to inform machine learning models. And the more data these models gather, the better they are at making higher-quality recommendations.^4
+```  
+
 ### Spotify's AI Features
 
 With the help of Artificial Intelligence, Spotify has introduced the following advanced features:
@@ -97,20 +102,22 @@ __Spotify Wrapped__:
 An extremely popular feature is Spotify's end-of-year summary of a user's listening habits for the past year.  It includes a summary of top songs, genres, artists, albums and tabulates total listening minutes.
 
 __AI DJ__: Spotify has introduced a humanistic voice that will serve as your personal disc jockey, to play tracks based:
-
-        on your specific music tastes and listening behavior...<and> curates tracks for you based on your individual user data, then narrates its selections in a hyper-realistic voice created by generative AI.^4
-
+```
+on your specific music tastes and listening behavior...<and> curates tracks for you based on your individual user data, then narrates its selections in a hyper-realistic voice created by generative AI.^4
+```
 __AI Translated Podcasts__:
- Voice Translation for podcasts is: 
- 
-        an AI-powered feature, which translates podcasts into different languages—all in the podcast host's original voice. The tool uses OpenAI technology to match the AI-generated voice to the speaker's individual tone and style automatically.^4
-
+  
+ ```
+<Voice Translation for podcasts is> is an AI-powered feature, which translates podcasts into different languages—all in the podcast host's original voice. The tool uses OpenAI technology to match the AI-generated voice to the speaker's individual tone and style automatically.^4
+```
  __AI-Driven Search__:
-Spotify graduated from searching only exact words for search to match content to implementing:
+Spotify graduated from searching only exact words for search to match content to implementing AI technologies like natural language processing (NLP) and deep learning.  
 
-        AI technologies like natural language processing (NLP) and deep learning, natural language search understands the semantic correlation between words, so it doesn’t need to exactly match your search with the words in a title to find what you’re looking for. That’s because natural language search can understand synonyms for different words, paraphrasing, and any content that means the same thing as what you searched.
+Natural language search understands the semantic correlation between words, so it doesn’t need to exactly match your search with the words in a title to find what you’re looking for...natural language search can understand synonyms for different words, paraphrasing, and any content that means the same thing as what you searched.
 
-## AI Aquisitions and Partnerships
+<a id="item-four"></a>
+
+## IV. AI Aquisitions and Partnerships
 
 Spotify's leadership in implementing AI solutions in its offerings have benefitted from a number of AI-related aquisitions and partnerships:
 
@@ -123,20 +130,23 @@ Spotify's leadership in implementing AI solutions in its offerings have benefitt
 + __June 2015__: __Seed Scientific__, is a data science consulting firm and analytics company, acquired to lead an advanced analytics unit within the company, focused on developing data services.
 
 + __January 2016__: Partnership with music annotation service __Genius__ is created, 
-
+ ```
         bringing annotation information from Genius into infocards presented while songs are playing in Spotify. This includes background information, artist’s comments, and little easter eggs about the tracks <on> infocards presented while songs are playing in Spotify.^13
-
+ ```
 + __March 2017__: __Sonalytic__, an audio detection startup, to be used to 
-
+ ```
         improve the company's personalized playlists, better match songs with compositions, and improve the company's publishing data system.  Sonalytic uses machine learning to detect audio and recommend music.^1
-  
+   ```
 + __May 2017__ artificial intelligence startup __Niland__ is acquired to improve improve personalisation features and optimize music searches, recommendations for users.
  
 + __November 2021__ "Behind the Lyrics" replaced with auto-generated real-time lyrics (powered by lyrics provider __Musixmatch__).
 
-+ __June 2022__, Spotify acquire London-based startup __Sonantic__, that has an AI-powered text-to-speech generator, an "AI engine to create very realistic-sounding, yet simulated, human voices from text."^15  This is utlized in AI DJ to provide AI-generated commentary for users' AI-generated playlists. _This was the technology used in “Top Gun: Maverick" to recreate Val Kilmer’s voice._
++ __June 2022__, Spotify acquire London-based startup __Sonantic__, that has an AI-powered text-to-speech generator: an "AI engine to create very realistic-sounding, yet simulated, human voices from text."^15   
+This is utilized in AI DJ to provide AI-generated commentary for users' AI-generated playlists. _This was the technology used in “Top Gun: Maverick" to recreate Val Kilmer’s voice._
 
-## Results
+<a id="item-five"></a>
+
+## V. Spotify's Results
 
 Although not the first music streaming service, Spotify is the world's largest, leveraging computational techniques and Artificial Intelligence to create highly curated and personalized music recommendations to its users.
 
@@ -165,7 +175,9 @@ __Common Content__
 + The music catalog is nearly identical across all the streaming services. Increasing subscription prices would result in users moving to similar, lower-cost services.
 
 
-## Recommendations
+<a id="item-six"></a>
+
+## VI. Recommendations
 
 1. __Invest in Developing Original Content__
 Much like Netflix, Max, Hulu, and Disney+ in the video streaming domain, Spotify needs to pursue creation of original content that will not require licence payments.
@@ -190,10 +202,11 @@ In 2022, Spotify became the official streaming partner of FC Barcelona
 Spotify has already invested heavily in its ad business, creating a highly customizable and curated ad marketplace.  They are uniquely positioned to provide highly targeting advertising to reach very specifically targeted users.
 
 
+<a id="item-seven"></a>
 
-# References
+## VII. References
 1. Spotify Wikipedia https://en.wikipedia.org/wiki/Spotify
-2. Spotify About https://investors.spotify.com/about/
+2. Spotify "About" https://investors.spotify.com/about/
 3. Gartner: Few organisations have mature AI processes
 https://www.computerweekly.com/news/366583348/Gartner-Few-organisations-have-mature-AI-processes
 4. How Spotify Uses AI (And What You Can Learn from It)
@@ -210,4 +223,3 @@ https://www.youtube.com/watch?v=mkSmUTK2FlY
 12. Case Study: How Spotify Prioritizes Data Projects for a Personalized Music Experience https://www.pragmaticinstitute.com/resources/articles/data/case-study-how-spotify-prioritizes-data-projects-for-a-personalized-music-experience/
 13.  The Rising Power of the Modern DSP: Spotify https://medium.com/@jlicata_20400/the-rising-power-of-the-modern-dsp-spotify-c5bdd5dcd639
 14. Spotify is acquiring Sonantic, the AI voice platform used to simulate Val Kilmer’s voice in ‘Top Gun: Maverick’ https://techcrunch.com/2022/06/13/spotify-is-acquiring-sonantic-the-ai-voice-platform-used-to-simulate-val-kilmers-voice-in-top-gun-maverick/
-15.  
