@@ -76,7 +76,7 @@ Spotify uses AI to analyze listening habits, serving ads that are more likely to
 
 ## III. How Spotify Leverages AI
 
-What sets Spotify apart is it's vast number of users, vast amount of data for the users, and the products it creates from it.  
+What sets Spotify apart is its vast number of users, vast amount of data for the users, and the products it creates from it.  
 
 It's content-filtering has evolved and includes advanced, proprietary features. They leverage exploring reinforcement learning to learn automatically based on feedback, to improve diversity of recommendations.
 
